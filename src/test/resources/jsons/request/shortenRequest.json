@@ -1,0 +1,12 @@
+{
+  "url": "https://goolnk.com/api/v1/shorten",
+  "headers": {
+    "X-RapidAPI-Host": "url-shortener-service.p.rapidapi.com",
+    "X-RapidAPI-Key": "671eb0ebe6mshcf75c4ee50ac3fap1d2fb1jsne5f7b269ef99",
+    "content-type" : "application/json"
+  },
+  "body": {
+    "url": "http://www.frm.utn.edu.ar/index.php"
+  }
+}
+
